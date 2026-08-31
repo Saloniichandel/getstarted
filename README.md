@@ -1,4 +1,4 @@
 # getstarted
 this is my first git repository
 <br>
-Author - Saloni pal
+Author -kriti
